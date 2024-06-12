@@ -1,4 +1,6 @@
 # Predicting Stock Prices using Long Short-Term Memory Recurrent Neural Networks
+**Hugo Hiraoka**
+
 
 **LSTM** is particularly useful in analyzing stock market data because it can handle data with multiple input and output timesteps. 
 For example, a company's stock price may be influenced by various factors such as economic indicators, market trends, and company-specific news.
