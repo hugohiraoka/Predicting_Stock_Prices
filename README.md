@@ -19,3 +19,5 @@ Biomedical Applications, 2020).
 Long Short-Term Memory (LSTM) is indicated for problems related to large data sequences. 
 They have the ability to identify short-term and long-term dependencies within temporal sequences. LSTM is composed of a set of recurrently connected subnets, 
 called memory blocks,containing three multiplicative units, called forget gate, input gate, and output gate (Buduma & Locascio, 2017; Goodfellow et al., 2016).
+
+![LSTM](assets/images/img_LSTM_Network.jpg)
