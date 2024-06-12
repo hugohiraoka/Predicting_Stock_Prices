@@ -1,4 +1,4 @@
-LSTM is particularly useful in analyzing stock market data because it can handle data with multiple input and output timesteps. 
+**LSTM** is particularly useful in analyzing stock market data because it can handle data with multiple input and output timesteps. 
 For example, a company's stock price may be influenced by various factors such as economic indicators, market trends, and company-specific news.
 
 In this notebook we use LSTM to predict the stock pricing of Microsoft shares using data extracted from Yahoo finances from 2000 to 2021, which was 
@@ -21,3 +21,6 @@ They have the ability to identify short-term and long-term dependencies within t
 called memory blocks,containing three multiplicative units, called forget gate, input gate, and output gate (Buduma & Locascio, 2017; Goodfellow et al., 2016).
 
 ![LSTM](assets/images/img_LSTM_Network.jpg)
+
+_(image from: Artificial intelligence and internet of things to improve efficacy of diagnosis and remote sensing of solar photovoltaic systems: Challenges, 
+recommendations and future directions Adel Mellit, Soteris Kalogirou, in Renewable and Sustainable Energy Reviews, 2021)_
