@@ -5,7 +5,7 @@ In this notebook we use LSTM to predict the stock pricing of Microsoft shares us
 the year when we originally implemented this notebook.
 
 
-![Stock Pricing]()
+![Stock Pricing](assets/images/img_stock_price_prediction_1.jpg)
 
 **What is LSTM?**
 Long Short-Term Memory (LSTM) is a type of recurrent neural network with a strong ability to learn and predict sequential data. 
