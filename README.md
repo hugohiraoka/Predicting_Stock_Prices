@@ -1,3 +1,5 @@
+# Predicting Stock Prices using Long Short-Term Memory Recurrent Neural Networks
+
 **LSTM** is particularly useful in analyzing stock market data because it can handle data with multiple input and output timesteps. 
 For example, a company's stock price may be influenced by various factors such as economic indicators, market trends, and company-specific news.
 
@@ -13,8 +15,8 @@ The research shows that RNN is limited in maintaining long-term memory. Therefor
 structure, which can maintain its state over time, with gates to decide what to remember, what to forget and what to output. The LSTM shows effective
 results in many applications that are inherently sequential such as speech recognition, speech synthesis, language modeling and translation and handwriting 
 recognition. 
-(From Selected approaches to supervised learning Khalid K. Al-jabery, ... Donald C. Wunsch II, in Computational Learning Approaches to Data Analytics in 
-Biomedical Applications, 2020).
+_(From Selected approaches to supervised learning Khalid K. Al-jabery, ... Donald C. Wunsch II, in Computational Learning Approaches to Data Analytics in 
+Biomedical Applications, 2020)._
 
 Long Short-Term Memory (LSTM) is indicated for problems related to large data sequences. 
 They have the ability to identify short-term and long-term dependencies within temporal sequences. LSTM is composed of a set of recurrently connected subnets, 
